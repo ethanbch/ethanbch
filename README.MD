@@ -7,11 +7,6 @@
   <a href="https://www.linkedin.com/in/ethan-benchetrit-392410205/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:ethan.benchetrit@proton.me">Email</a>
 </p>
-
----
-
-M2 Finance & Data Science. Je construis des pipelines ML sur des données financières réelles — des transcriptions d'earnings calls aux prix d'options inflation — et des systèmes RAG déployés en production sur Azure.
-
 ---
 
 ## Featured Projects
