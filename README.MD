@@ -1,6 +1,6 @@
 <h1 align="center">Ethan Benchetrit</h1>
 <p align="center">
-  Data Scientist · ML Engineer — Finance & NLP · Paris
+  Data Scientist · ML Engineer · Finance · Paris
 </p>
 <p align="center">
   <a href="https://ethanbch.github.io">Portfolio</a> &nbsp;·&nbsp;
