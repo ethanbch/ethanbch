@@ -32,9 +32,4 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ethanbch&show_icons=true&theme=github_dark&hide_border=true" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanbch&layout=compact&theme=github_dark&hide_border=true" height="140"/>
-</p>
