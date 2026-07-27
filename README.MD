@@ -17,19 +17,43 @@
 
 ---
 
-### ⚡ About Me
+### 🛠️ Tech Stack
 
-```python
-class EthanBenchetrit:
-    def __init__(self):
-        self.role = "AI Engineer"
-        self.specializations = [
-            "LLMs & RAG Architectures",
-            "Model Context Protocol (MCP)",
-            "Machine Learning & Data Science",
-            "MLOps & Cloud Infrastructure"
-        ]
-        self.core_stack = ["Python", "PyTorch", "Azure", "Docker", "TypeScript"]
+<table>
+  <tr>
+    <td width="30%"><b>AI & Data Science</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Cloud & MLOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Software Engineering</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-    def current_focus(self):
-        return "Designing scalable AI tools and intelligent retrieval systems."
+---
+
+### 📊 Activity & Performance
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ethanbch&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanbch&layout=compact&theme=catppuccin_mocha&hide_border=true" width="49%" />
+</div>
