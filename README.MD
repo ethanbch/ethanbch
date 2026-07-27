@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Ethan Benchetrit</h1>
-  <p>🚀 <b>AI Engineer & Data Scientist</b></p>
+  <p><b>AI Engineer & Data Scientist</b></p>
 
   <p>
     <a href="https://ethanbch.github.io">
@@ -56,18 +56,18 @@
 <table align="center" border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ethanbch&theme=tokyonight" alt="Ethan's GitHub Stats" width="100%" />
+      <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Ethan's Profile Details" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethanbch&theme=tokyonight&hide_border=true" alt="Ethan's Streak Stats" width="100%" />
+      <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Ethan's Stats" width="100%" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ethanbch&theme=tokyonight" alt="Top Languages by Repo" width="100%" />
+      <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ethanbch&theme=tokyonight" alt="Top Languages by Commit" width="100%" />
+      <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" width="100%" />
     </td>
   </tr>
 </table>
