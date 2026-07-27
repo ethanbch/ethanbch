@@ -53,7 +53,21 @@
 
 ### 📊 Activity & Performance
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ethanbch&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanbch&layout=compact&theme=catppuccin_mocha&hide_border=true" width="49%" />
-</div>
+<table align="center" border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ethanbch&theme=tokyonight" alt="Ethan's GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethanbch&theme=tokyonight&hide_border=true" alt="Ethan's Streak Stats" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ethanbch&theme=tokyonight" alt="Top Languages by Repo" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ethanbch&theme=tokyonight" alt="Top Languages by Commit" width="100%" />
+    </td>
+  </tr>
+</table>
