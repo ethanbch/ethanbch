@@ -7,7 +7,6 @@
   <a href="https://www.linkedin.com/in/ethan-benchetrit-392410205/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:ethan.benchetrit@proton.me">Email</a>
 </p>
----
 
 ## Stack
 
