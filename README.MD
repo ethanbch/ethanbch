@@ -3,9 +3,6 @@
   <p><b>AI Engineer & Data Scientist</b></p>
 
   <p>
-    <a href="https://ethanbch.github.io">
-      <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=googlechrome&logoColor=white" />
-    </a>
     <a href="https://www.linkedin.com/in/ethan-benchetrit-392410205/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
